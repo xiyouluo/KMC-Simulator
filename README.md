@@ -1,1 +1,1 @@
-# KMC_Python
+# KMC_simulator
