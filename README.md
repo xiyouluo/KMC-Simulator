@@ -1,1 +1,1 @@
-# KMC_simulator
+# KMC-Simulator
